@@ -5,7 +5,7 @@ Practice C pointers
 This machine problem will be divided up into two pieces. In the first piece, you will be modifying functions originally with errors such that the outputs match the given output. In the second piece, you will need to write some code to call some ‘creatively defined’ functions so that those functions produce the desired output.
 
 
-Part 1:
+##Part 1:
 There are erroneous/unimplemented functions in part1-functions.c. Your task is to modify functions according to comment above each function such that the output of part1 looks exactly as follows:
 
 == one() ==
