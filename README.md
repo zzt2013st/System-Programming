@@ -93,7 +93,7 @@ To complete Part 2, you must complete the program part2-main.c so that part2-mai
 11: Illinois
 You should NOT edit the part2-functions.c file. In fact, when we grade your program, we will replace the part2-functions.c file with a new version of the file (and we’ll change the “Illinois” string so printing out “Illinois” in a for-loop will get you no credit).
 
-Compile and Run
+##Compile and Run
 To compile the release version of the code run:
 
 make clean
